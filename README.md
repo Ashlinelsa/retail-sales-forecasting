@@ -9,11 +9,11 @@ Analyzed daily online sales data using seasonal decomposition, moving averages, 
 - Augmented Dickey‑Fuller (ADF) test for stationarity
 - Holt‑Winters Exponential Smoothing (additive trend & seasonality)
 
-##  Results
-- Series found **non‑stationary** (ADF p‑value > 0.05)  
-- Generated **30‑day forecast** with clear trend & seasonality  
-- Detected sudden demand spikes (e.g., Mar 3, Apr 8, Jun 13)  
-- No major drops observed
+## Results
+- Identified long-term sales trends and recurring seasonal patterns.
+- Generated a 30-day sales forecast using Holt-Winters Exponential Smoothing.
+- Detected unusual demand spikes through time-series analysis.
+- Visualized historical sales behavior to support forecasting and business decision-making.
 
 ##  Tools
 - Python  
